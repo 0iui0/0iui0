@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0iui0
 - 👀 I’m interested in SLAM ML/DL/RL.
-- 🌱 I’m currently learning SLAM.
+- 🌱 I’m currently learning VLA.
 - 💞️ I’m looking to collaborate on robotic.
 - 📫 How to reach me ...
 
