@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @0iui0
-- 👀 I’m interested in SLAM ML/DL/RL.
-- 🌱 I’m currently learning VLA.
-- 💞️ I’m looking to collaborate on robotic.
-- 📫 How to reach me ...
+Building embodied intelligence from the ground up — tactile sensing, VLA, and real-world RL. Currently: dexterous manipulation with DexHand + GR00T N1.7 + HIL-SERL.
 
 <!---
 0iui0/0iui0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
