@@ -1,5 +1,5 @@
-Building embodied intelligence from the ground up — tactile sensing, VLA, and real-world RL. 
-Currently: dexterous manipulation with DexHand + PI0.5/GR00T N1.7 + HIL-SERL + EXPO-FT.
+- Building embodied intelligence from the ground up — tactile sensing, VLA, and real-world RL. 
+- Currently: dexterous manipulation with DexHand + PI0.5/GR00T N1.7 + HIL-SERL + EXPO-FT.
 
 <!---
 0iui0/0iui0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
